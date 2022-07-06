@@ -1,2 +1,2 @@
 # Calculadora-Efeito-vidro
-Segundo Projeto de Calculadora
+Projeto de Calculadora com um visual atrativo.
